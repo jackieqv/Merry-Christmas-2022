@@ -179,7 +179,7 @@ body {
 }
 
 .cart-page-inside {
-  background-image: url(../christmas_card_merry_christmas_2022/images/card_inside_left.gif);
+  background-image: url("images/card_inside_left.gif");
   background-size: contain;
   width: 100%;
   height: 100%;
