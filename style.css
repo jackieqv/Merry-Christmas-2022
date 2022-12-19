@@ -174,7 +174,6 @@ body {
 @media (max-width: 767px) {
   .cart-page-inside,
 .cart-page-bottom {
-    border: 10px solid #d4d1d0;
   }
 }
 
@@ -205,7 +204,6 @@ body {
 }
 @media (max-width: 767px) {
   .cart-page-bottom {
-    background-position: 85px 30px;
   }
 }
 @media (max-width: 479px) {
